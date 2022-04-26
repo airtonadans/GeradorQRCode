@@ -15,7 +15,7 @@ Awesome QR code - An awesome QR code generator for Android.
 
 ## Showcase
 
-No Logo|With Logo|Animated GIF
+Sem Logo|Com Logo|GIF Animado
 ------------ | ------------- | -------------
 <img src="art/no_logo.png" width="400"> | <img src="art/with_logo.png" width="400"> | <img src="art/gif.gif" width="400"> 
 
